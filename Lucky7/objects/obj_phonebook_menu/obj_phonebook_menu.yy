@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"JournalIcon",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_phonebook_menu",
+  "eventList":[],
   "managed":true,
-  "name":"JournalIcon",
+  "name":"obj_phonebook_menu",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"closed_book_sprite",
-    "path":"sprites/closed_book_sprite/closed_book_sprite.yy",
+    "name":"Sprite_phone",
+    "path":"sprites/Sprite_phone/Sprite_phone.yy",
   },
   "spriteMaskId":null,
   "visible":true,

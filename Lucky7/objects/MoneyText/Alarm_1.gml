@@ -20,3 +20,4 @@ for (var i = 0; i < instance_number(Crop); ++i;)
 	crop.alarm[0] = 2;
 }
 global.time +=1;
+global.water_supply = 100
