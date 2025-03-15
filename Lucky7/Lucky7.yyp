@@ -57,6 +57,8 @@
     {"id":{"name":"TRObject","path":"objects/TRObject/TRObject.yy",},},
     {"id":{"name":"Water_obj","path":"objects/Water_obj/Water_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Button","path":"sounds/Button/Button.yy",},},
+    {"id":{"name":"CashRegister","path":"sounds/CashRegister/CashRegister.yy",},},
     {"id":{"name":"CropSprite","path":"sprites/CropSprite/CropSprite.yy",},},
     {"id":{"name":"DudeSprite","path":"sprites/DudeSprite/DudeSprite.yy",},},
     {"id":{"name":"FarmTileB","path":"sprites/FarmTileB/FarmTileB.yy",},},
