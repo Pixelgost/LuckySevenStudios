@@ -1,1 +1,1 @@
-text = "Money: $" + string(global.money);
+text = "Money: $" + string(round(global.money));

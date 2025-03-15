@@ -35,8 +35,10 @@
   "name":"Lucky7",
   "resources":[
     {"id":{"name":"MoneyFont","path":"fonts/MoneyFont/MoneyFont.yy",},},
+    {"id":{"name":"Crop","path":"objects/Crop/Crop.yy",},},
     {"id":{"name":"MoneyText","path":"objects/MoneyText/MoneyText.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"CropSprite","path":"sprites/CropSprite/CropSprite.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
