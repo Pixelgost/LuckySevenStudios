@@ -67,6 +67,7 @@
     {"id":{"name":"FarmTileTL","path":"sprites/FarmTileTL/FarmTileTL.yy",},},
     {"id":{"name":"FarmTileTR","path":"sprites/FarmTileTR/FarmTileTR.yy",},},
     {"id":{"name":"FarmTimeBL","path":"sprites/FarmTimeBL/FarmTimeBL.yy",},},
+    {"id":{"name":"Sprite_PhonebookButton","path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},},
     {"id":{"name":"Fertilize","path":"sprites/Fertilize/Fertilize.yy",},},
     {"id":{"name":"Pesticide","path":"sprites/Pesticide/Pesticide.yy",},},
     {"id":{"name":"Water","path":"sprites/Water/Water.yy",},},

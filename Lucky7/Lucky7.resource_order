@@ -51,6 +51,7 @@
     {"name":"FarmTileTL","order":2,"path":"sprites/FarmTileTL/FarmTileTL.yy",},
     {"name":"FarmTileTR","order":7,"path":"sprites/FarmTileTR/FarmTileTR.yy",},
     {"name":"FarmTimeBL","order":4,"path":"sprites/FarmTimeBL/FarmTimeBL.yy",},
+    {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},
     {"name":"MatureGrapes","order":13,"path":"sprites/MatureGrapes/MatureGrapes.yy",},
     {"name":"SellButton","order":12,"path":"sprites/SellButton/SellButton.yy",},
     {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},

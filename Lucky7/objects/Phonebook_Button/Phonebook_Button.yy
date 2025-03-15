@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object_Phonebook_Button",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Phonebook_Button",
+  "eventList":[],
   "managed":true,
-  "name":"Object_Phonebook_Button",
+  "name":"Phonebook_Button",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
