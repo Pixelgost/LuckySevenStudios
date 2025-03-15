@@ -7,4 +7,4 @@ draw_set_font(font);
 draw_set_color(text_color);
 draw_set_halign(fa_left);
 draw_set_valign(fa_middle);
-draw_text(x + padding, y + height/2, time_settings[global.time % 3]);
+draw_text(x + padding, y + height/2, "Day: " + string(global.time));
