@@ -50,5 +50,15 @@
     {"name":"Sprite_phonebook_button","order":19,"path":"sprites/Sprite_phonebook_button/Sprite_phonebook_button.yy",},
     {"name":"Sprite15","order":18,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"Water","order":12,"path":"sprites/Water/Water.yy",},
+     {"name":"closed_book_sprite","order":7,"path":"sprites/closed_book_sprite/closed_book_sprite.yy",},
+      {"name":"JournalIcon","order":19,"path":"objects/JournalIcon/JournalIcon.yy",},
+       {"name":"MoneyText","order":3,"path":"objects/MoneyText/MoneyText.yy",}, 
+        {"name":"OpenJournal","order":20,"path":"sprites/OpenJournal/OpenJournal.yy",}, 
+
+	
+
+    {"name":"JournalMenu_obj","order":20,"path":"objects/JournalMenu_obj/JournalMenu_obj.yy",}, 
+     
+ 
   ],
 }
