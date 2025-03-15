@@ -17,16 +17,19 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"MainFont","order":1,"path":"fonts/MainFont/MainFont.yy",},
+    {"name":"AdvanceButton","order":15,"path":"objects/AdvanceButton/AdvanceButton.yy",},
     {"name":"BLObject","order":3,"path":"objects/BLObject/BLObject.yy",},
     {"name":"BRObject","order":5,"path":"objects/BRObject/BRObject.yy",},
     {"name":"Crop","order":12,"path":"objects/Crop/Crop.yy",},
     {"name":"FarmTileBObject","order":4,"path":"objects/FarmTileBObject/FarmTileBObject.yy",},
     {"name":"LObject","order":6,"path":"objects/LObject/LObject.yy",},
     {"name":"Mobject","order":11,"path":"objects/Mobject/Mobject.yy",},
-    {"name":"Object_Phonebook_Button","order":12,"path":"objects/Object_Phonebook_Button/Object_Phonebook_Button.yy",},
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Phonebook_Button","order":12,"path":"objects/Phonebook_Button/Phonebook_Button.yy",},
     {"name":"RObject","order":7,"path":"objects/RObject/RObject.yy",},
     {"name":"SellButtonObject","order":13,"path":"objects/SellButtonObject/SellButtonObject.yy",},
+    {"name":"TimeText","order":14,"path":"objects/TimeText/TimeText.yy",},
     {"name":"TlObject","order":9,"path":"objects/TlObject/TlObject.yy",},
     {"name":"TObject","order":10,"path":"objects/TObject/TObject.yy",},
     {"name":"TRObject","order":8,"path":"objects/TRObject/TRObject.yy",},
@@ -41,8 +44,13 @@
     {"name":"FarmTileTL","order":2,"path":"sprites/FarmTileTL/FarmTileTL.yy",},
     {"name":"FarmTileTR","order":7,"path":"sprites/FarmTileTR/FarmTileTR.yy",},
     {"name":"FarmTimeBL","order":4,"path":"sprites/FarmTimeBL/FarmTimeBL.yy",},
+    {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},
     {"name":"MatureGrapes","order":13,"path":"sprites/MatureGrapes/MatureGrapes.yy",},
     {"name":"SellButton","order":12,"path":"sprites/SellButton/SellButton.yy",},
+<<<<<<< HEAD
     {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},
+    {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
+=======
+>>>>>>> parent of 839ba54 (Added leftclick event on object_phonebook_button)
   ],
 }
