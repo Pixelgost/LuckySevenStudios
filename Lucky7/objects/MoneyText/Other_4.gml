@@ -1,1 +1,1 @@
-audio_play_sound(music_farm, 0, true);
+audio_play_sound(music_farm, 0, true, 0.6);
