@@ -18,5 +18,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Crop","order":1,"path":"objects/Crop/Crop.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"DudeSprite","order":1,"path":"sprites/DudeSprite/DudeSprite.yy",},
   ],
 }

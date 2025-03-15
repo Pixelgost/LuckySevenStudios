@@ -1,13 +1,6 @@
 hydration = 80;
 nutrition = 80;
 pest = 0;
-hydro_text = "Health: ";
-nutri_text = "Nutrition: ";
-background_alpha = 0.7;
-text_color = c_white;
-padding = 10;
-width = 150;
-height = 40;
 font = MoneyFont;
 hydro_range = [60, 90];
 nutri_range = [70, 90]; 

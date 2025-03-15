@@ -10,8 +10,6 @@ if (hydration < 0)then {
 if (nutrition < 0) then {
 	nutrition = 0;
 }
-hydro_text= "Hydration: " + string(hydration)
-nutri_text= "Nutrition: " + string(nutrition)
 
 var money_increment = random_range(1, 3)
 
