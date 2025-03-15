@@ -1,4 +1,4 @@
-draw_set_color(background_color);
+
 draw_set_alpha(background_alpha);
 draw_rectangle(x, y, x + width, y + height, false);
 draw_set_alpha(1);
