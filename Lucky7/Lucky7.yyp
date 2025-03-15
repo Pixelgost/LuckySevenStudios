@@ -54,10 +54,13 @@
     {"id":{"name":"TObject","path":"objects/TObject/TObject.yy",},},
     {"id":{"name":"TRObject","path":"objects/TRObject/TRObject.yy",},},
     {"id":{"name":"Water_obj","path":"objects/Water_obj/Water_obj.yy",},},
+    {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Button","path":"sounds/Button/Button.yy",},},
     {"id":{"name":"CashRegister","path":"sounds/CashRegister/CashRegister.yy",},},
+    {"id":{"name":"music_crisis","path":"sounds/music_crisis/music_crisis.yy",},},
     {"id":{"name":"music_farm","path":"sounds/music_farm/music_farm.yy",},},
+    {"id":{"name":"music_social","path":"sounds/music_social/music_social.yy",},},
     {"id":{"name":"PhoneNotification","path":"sounds/PhoneNotification/PhoneNotification.yy",},},
     {"id":{"name":"Spray","path":"sounds/Spray/Spray.yy",},},
     {"id":{"name":"WateringCan","path":"sounds/WateringCan/WateringCan.yy",},},
@@ -84,6 +87,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
