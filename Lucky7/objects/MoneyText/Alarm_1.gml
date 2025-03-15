@@ -5,7 +5,6 @@ var pest_del = random_range(2, 7);
 global.hydration -= hydro_del;
 global.nutrition -= nutri_del;
 global.pest += pest_del;
-global.actions = 3
 if (global.hydration < 0)then {
 	global.hydration = 0;
 }
