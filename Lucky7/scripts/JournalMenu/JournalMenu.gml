@@ -1,4 +1,4 @@
-function JournalMenu(_x, _y, _options, _description = -1)
+function JournalMenu(_x, _y, _options, _description = -1, _journal_scalar)
 { // Using the Sara Spalding video for reference
 
 	with (instance_create_depth(_x, _y, -999, JournalMenu_obj)) {
@@ -17,7 +17,7 @@ function JournalMenu(_x, _y, _options, _description = -1)
 		}
 		width += string_width(hovermarker);
 		
-		heightLine = 17;
+		heightLine = 60;
 		height = heightLine * (optionsCount + !(description == -1));
 		
 		widthFull = width + margin * 2;
@@ -25,7 +25,4 @@ function JournalMenu(_x, _y, _options, _description = -1)
 		
 		
 	}
-
-
-
 }

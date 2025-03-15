@@ -1,4 +1,4 @@
-mouseOver = point_in_rectangle(mouse_x, mouse_y, x, y, x+width*2.5, y+height*2.5);
+mouseOver = point_in_rectangle(mouse_x, mouse_y, x, y, x+width*_journal_scalar, y+height*_journal_scalar);
 
 if ((mouse_check_button_pressed(mb_any) && !mouseOver) || (keyboard_check_pressed(vk_escape)))
 {

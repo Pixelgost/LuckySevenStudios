@@ -1,5 +1,5 @@
 //if (!journal_open) {
-	draw_sprite_stretched(OpenJournal, 0, 0, 554, widthFull*2.5, heightFull*2.5);
+	draw_sprite_stretched(OpenJournal, 0, 0, 325, widthFull*_journal_scalar, heightFull*_journal_scalar);
 	journal_open = true;
 
 
@@ -22,9 +22,9 @@
 			var _str = options[l-_desc][0]
 			if (hover == l - _desc)
 			{
-				draw_set_colour(c_blue);
+				draw_set_colour(c_black);
 			}
-			draw_text(x, y + l*heightLine, _str);
+			draw_text(x, y + l*heightLine*_journal_scalar*0.2, _str);
 		}
 
 	}
