@@ -5,6 +5,7 @@ var pest_del = random_range(2, 7);
 global.hydration -= hydro_del;
 global.nutrition -= nutri_del;
 global.pest += pest_del;
+global.actions = 3
 if (global.hydration < 0)then {
 	global.hydration = 0;
 }
@@ -20,3 +21,4 @@ for (var i = 0; i < instance_number(Crop); ++i;)
 	crop.alarm[0] = 2;
 }
 global.time +=1;
+global.water_supply = 100

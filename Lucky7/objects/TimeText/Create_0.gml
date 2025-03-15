@@ -4,4 +4,3 @@ padding = 10;
 width = 150;
 height = 40;
 font = MainFont
-time_settings = ["Morning", "Afternoon", "Evening"]
