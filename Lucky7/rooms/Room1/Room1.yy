@@ -162,8 +162,10 @@
     {"name":"inst_1A1B6A92","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_77D2E03D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4DB00009","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_753877E2","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5AE79748","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_4DB00009","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7E81C920","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_753877E2","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -173,7 +175,7 @@
         {"$GMRInstance":"v1","%Name":"inst_1A1B6A92","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A1B6A92","objectId":{"name":"Water_obj","path":"objects/Water_obj/Water_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":32.0,},
         {"$GMRInstance":"v1","%Name":"inst_77D2E03D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77D2E03D","objectId":{"name":"Fertilizer_obj","path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":32.0,},
         {"$GMRInstance":"v1","%Name":"inst_4DB00009","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4DB00009","objectId":{"name":"AdvanceButton","path":"objects/AdvanceButton/AdvanceButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":3.5,"x":608.0,"y":608.0,},
-        {"$GMRInstance":"v1","%Name":"inst_753877E2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_753877E2","objectId":{"name":"MoneyText","path":"objects/MoneyText/MoneyText.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":2464.0,"y":0.0,},
+        {"$GMRInstance":"v1","%Name":"inst_753877E2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_753877E2","objectId":{"name":"MoneyText","path":"objects/MoneyText/MoneyText.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":1120.0,"y":0.0,},
       ],"layers":[],"name":"UI_Layer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4B90FD76","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B90FD76","objectId":{"name":"BLObject","path":"objects/BLObject/BLObject.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":448.0,},
