@@ -1,5 +1,5 @@
 
-if (global.actions > 0 and global.pesticide_supply > 0) then {
+if (global.pesticide_supply > 0) then {
 	x = mouse_x;
 	y = mouse_y;
 	
