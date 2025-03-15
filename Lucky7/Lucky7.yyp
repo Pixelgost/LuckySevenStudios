@@ -82,6 +82,7 @@
     {"id":{"name":"FarmTileTR","path":"sprites/FarmTileTR/FarmTileTR.yy",},},
     {"id":{"name":"FarmTimeBL","path":"sprites/FarmTimeBL/FarmTimeBL.yy",},},
     {"id":{"name":"Fertilize","path":"sprites/Fertilize/Fertilize.yy",},},
+    {"id":{"name":"GameOver_spr","path":"sprites/GameOver_spr/GameOver_spr.yy",},},
     {"id":{"name":"GrassTile","path":"sprites/GrassTile/GrassTile.yy",},},
     {"id":{"name":"MatureGrapes","path":"sprites/MatureGrapes/MatureGrapes.yy",},},
     {"id":{"name":"OpenJournal","path":"sprites/OpenJournal/OpenJournal.yy",},},

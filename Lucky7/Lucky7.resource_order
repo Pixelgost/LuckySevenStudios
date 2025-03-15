@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"GameOver_spr","order":1,"path":"sprites/GameOver_spr/GameOver_spr.yy",},
+  ],
 }
