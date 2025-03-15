@@ -17,6 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Fertilizer_obj","order":14,"path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},
+    {"name":"Pesticide_obj","order":15,"path":"objects/Pesticide_obj/Pesticide_obj.yy",},
+    {"name":"Water_obj","order":13,"path":"objects/Water_obj/Water_obj.yy",},
+    {"name":"Fertilize","order":10,"path":"sprites/Fertilize/Fertilize.yy",},
+    {"name":"Pesticide","order":12,"path":"sprites/Pesticide/Pesticide.yy",},
+    {"name":"Water","order":11,"path":"sprites/Water/Water.yy",},
     {"name":"MainFont","order":1,"path":"fonts/MainFont/MainFont.yy",},
     {"name":"AdvanceButton","order":15,"path":"objects/AdvanceButton/AdvanceButton.yy",},
     {"name":"BLObject","order":3,"path":"objects/BLObject/BLObject.yy",},
@@ -25,6 +31,7 @@
     {"name":"FarmTileBObject","order":4,"path":"objects/FarmTileBObject/FarmTileBObject.yy",},
     {"name":"LObject","order":6,"path":"objects/LObject/LObject.yy",},
     {"name":"Mobject","order":11,"path":"objects/Mobject/Mobject.yy",},
+    {"name":"Object_Phonebook_Button","order":12,"path":"objects/Object_Phonebook_Button/Object_Phonebook_Button.yy",},
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"Phonebook_Button","order":12,"path":"objects/Phonebook_Button/Phonebook_Button.yy",},
     {"name":"RObject","order":7,"path":"objects/RObject/RObject.yy",},
@@ -47,16 +54,7 @@
     {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},
     {"name":"MatureGrapes","order":13,"path":"sprites/MatureGrapes/MatureGrapes.yy",},
     {"name":"SellButton","order":12,"path":"sprites/SellButton/SellButton.yy",},
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},
     {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
-=======
->>>>>>> parent of 839ba54 (Added leftclick event on object_phonebook_button)
-=======
->>>>>>> parent of 839ba54 (Added leftclick event on object_phonebook_button)
-=======
->>>>>>> parent of 839ba54 (Added leftclick event on object_phonebook_button)
   ],
 }
