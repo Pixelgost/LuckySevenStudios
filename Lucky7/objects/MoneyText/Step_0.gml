@@ -16,14 +16,3 @@ if (nutrition < 0) then {
 if (pest > 100) then {
 	pest = 100
 }
-
-var money_increment = random_range(1, 3)
-
-if ((hydration < hydro_range[0] or hydration > hydro_range[1]) and (nutrition < nutri_range[0] or nutrition > nutri_range[1])) then {
-	money_increment = 0;
-}
-else if ((hydration < hydro_range[0] or hydration > hydro_range[1]) or (nutrition < nutri_range[0] or nutrition > nutri_range[1])) then {
-	money_increment /= 2;
-}
-
-global.money += (money_increment * fr)
