@@ -1,0 +1,9 @@
+global.money = 0;
+text = "Money: $0";
+background_color = c_black;
+background_alpha = 0.7;
+text_color = c_white;
+padding = 10;
+width = 150;
+height = 40;
+font = MoneyFont;
