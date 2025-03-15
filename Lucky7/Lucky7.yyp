@@ -34,6 +34,7 @@
   },
   "name":"Lucky7",
   "resources":[
+    {"id":{"name":"MainFont","path":"fonts/MainFont/MainFont.yy",},},
     {"id":{"name":"MoneyFont","path":"fonts/MoneyFont/MoneyFont.yy",},},
     {"id":{"name":"BLObject","path":"objects/BLObject/BLObject.yy",},},
     {"id":{"name":"BRObject","path":"objects/BRObject/BRObject.yy",},},

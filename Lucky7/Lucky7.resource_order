@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"MainFont","order":1,"path":"fonts/MainFont/MainFont.yy",},
     {"name":"BLObject","order":3,"path":"objects/BLObject/BLObject.yy",},
     {"name":"BRObject","order":5,"path":"objects/BRObject/BRObject.yy",},
     {"name":"Crop","order":12,"path":"objects/Crop/Crop.yy",},
