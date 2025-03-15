@@ -8,8 +8,8 @@ padding = 10;
 width = 150;
 height = 40;
 font = MainFont;
-global.hydration = 100;
-global.nutrition = 100;
+global.hydration = 90;
+global.nutrition = 90;
 global.pest = 0;
 
 global.hydro_range = [60, 90];
