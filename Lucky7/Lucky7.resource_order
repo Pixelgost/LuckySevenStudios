@@ -34,6 +34,7 @@
     {"name":"TObject","order":10,"path":"objects/TObject/TObject.yy",},
     {"name":"TRObject","order":8,"path":"objects/TRObject/TRObject.yy",},
     {"name":"Water_obj","order":13,"path":"objects/Water_obj/Water_obj.yy",},
+    {"name":"MainMenu","order":1,"path":"rooms/MainMenu/MainMenu.yy",},
     {"name":"CashRegister","order":1,"path":"sounds/CashRegister/CashRegister.yy",},
     {"name":"music_crisis","order":6,"path":"sounds/music_crisis/music_crisis.yy",},
     {"name":"music_farm","order":5,"path":"sounds/music_farm/music_farm.yy",},
