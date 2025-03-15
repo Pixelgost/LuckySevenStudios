@@ -48,8 +48,11 @@
     {"name":"MatureGrapes","order":13,"path":"sprites/MatureGrapes/MatureGrapes.yy",},
     {"name":"SellButton","order":12,"path":"sprites/SellButton/SellButton.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"Sprite_PhonebookButton","order":16,"path":"sprites/Sprite_PhonebookButton/Sprite_PhonebookButton.yy",},
     {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
+=======
+>>>>>>> parent of 839ba54 (Added leftclick event on object_phonebook_button)
 =======
 >>>>>>> parent of 839ba54 (Added leftclick event on object_phonebook_button)
   ],
