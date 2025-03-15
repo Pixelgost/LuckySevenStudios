@@ -58,6 +58,7 @@
     {"id":{"name":"Water_obj","path":"objects/Water_obj/Water_obj.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"JournalMenu","path":"scripts/JournalMenu/JournalMenu.yy",},},
     {"id":{"name":"Button","path":"sounds/Button/Button.yy",},},
     {"id":{"name":"CashRegister","path":"sounds/CashRegister/CashRegister.yy",},},
     {"id":{"name":"music_crisis","path":"sounds/music_crisis/music_crisis.yy",},},
