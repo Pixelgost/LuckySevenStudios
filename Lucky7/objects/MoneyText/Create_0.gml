@@ -1,5 +1,6 @@
 global.money = 0;
 text = "Money: $0";
+global.time = 0
 
 background_alpha = 0.7;
 text_color = c_white;
