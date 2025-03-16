@@ -24,11 +24,11 @@ for (var i = 0; i < instance_number(Crop); ++i;)
 
 
 global.time +=1;
-if (global.time == 14) {
+if (global.time == 3) {
 
 	// Victory
 	layer_set_visible("Instances_phone_menu", true)
-	instance_create_depth(room_width / 2 - 240, room_height / 2 - 350,-999999, YouWinScreenObject);
+	instance_create_depth(room_width / 2 - 330, room_height / 2 - 350,-999999, YouWinScreenObject);
 
 }
 
@@ -38,13 +38,6 @@ global.water_supply = 100
 var journal = instance_find(JournalIcon, 0);
 if (global.time == 5 || global.time == 9 || global.time == 13) then {
 	journal.alarm[0] = 1;
-}
-
-if (global.time == 3 || global.time == 6 || global.time == 7 || global.time == 11) {
-	global.can_buy = true;
-}
-else {
-	global.can_buy = false;
 }
 
 
@@ -91,10 +84,5 @@ else {
 }
 global.actions = 1;
 
-if (global.can_buy && layer_get_visible("Instances_phone_menu")) {
-	layer_set_visible("Instances_1", true);
-}
-else {
-	layer_set_visible("Instances_1", false);
-}
+if (global.crisis && layer_get_visible("Instances_phone_menu")) layer_set_visible("Instances_1", true);
 	
