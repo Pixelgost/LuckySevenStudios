@@ -21,3 +21,9 @@ water_bonus = 0;
 global.choices = 0;
 pest_bonus = 0;
 nutri_bonus = 0;
+
+
+
+global.crisis = false;
+global.phone_visible = false;
+layer_set_visible("Instances_1", false);
