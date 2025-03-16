@@ -44,6 +44,12 @@
     {"id":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},},
     {"id":{"name":"FarmTileBObject","path":"objects/FarmTileBObject/FarmTileBObject.yy",},},
     {"id":{"name":"Fertilizer_obj","path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},},
+
+    {"id":{"name":"FertilizerIcon","path":"objects/FertilizerIcon/FertilizerIcon.yy",},},
+
+    {"id":{"name":"GameOver_obj","path":"objects/GameOver_obj/GameOver_obj.yy",},},
+    {"id":{"name":"GameOverMessage","path":"objects/GameOverMessage/GameOverMessage.yy",},},
+
     {"id":{"name":"GrassTileObject","path":"objects/GrassTileObject/GrassTileObject.yy",},},
     {"id":{"name":"InfoButton","path":"objects/InfoButton/InfoButton.yy",},},
     {"id":{"name":"JournalIcon","path":"objects/JournalIcon/JournalIcon.yy",},},
@@ -55,6 +61,7 @@
     {"id":{"name":"obj_phoneBook_button","path":"objects/obj_phoneBook_button/obj_phoneBook_button.yy",},},
     {"id":{"name":"obj_phonebook_menu","path":"objects/obj_phonebook_menu/obj_phonebook_menu.yy",},},
     {"id":{"name":"Pesticide_obj","path":"objects/Pesticide_obj/Pesticide_obj.yy",},},
+    {"id":{"name":"PesticideIcon","path":"objects/PesticideIcon/PesticideIcon.yy",},},
     {"id":{"name":"pfpObject1","path":"objects/pfpObject1/pfpObject1.yy",},},
     {"id":{"name":"pfpObject2","path":"objects/pfpObject2/pfpObject2.yy",},},
     {"id":{"name":"pfpObject3","path":"objects/pfpObject3/pfpObject3.yy",},},
@@ -69,6 +76,7 @@
     {"id":{"name":"TObject","path":"objects/TObject/TObject.yy",},},
     {"id":{"name":"TRObject","path":"objects/TRObject/TRObject.yy",},},
     {"id":{"name":"Water_obj","path":"objects/Water_obj/Water_obj.yy",},},
+    {"id":{"name":"WaterIcon","path":"objects/WaterIcon/WaterIcon.yy",},},
     {"id":{"name":"YouWinScreenObject","path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},},
     {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
@@ -114,6 +122,7 @@
     {"id":{"name":"Sprite_phone","path":"sprites/Sprite_phone/Sprite_phone.yy",},},
     {"id":{"name":"Sprite_phonebook_button","path":"sprites/Sprite_phonebook_button/Sprite_phonebook_button.yy",},},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+    {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},},
     {"id":{"name":"StartButton_spr","path":"sprites/StartButton_spr/StartButton_spr.yy",},},
     {"id":{"name":"Title_spr","path":"sprites/Title_spr/Title_spr.yy",},},
     {"id":{"name":"TitleBackground_spr","path":"sprites/TitleBackground_spr/TitleBackground_spr.yy",},},
