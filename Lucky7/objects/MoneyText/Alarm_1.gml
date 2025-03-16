@@ -24,7 +24,7 @@ for (var i = 0; i < instance_number(Crop); ++i;)
 
 
 global.time +=1;
-if (global.time == 3) {
+if (global.time == 14) {
 
 	// Victory
 	layer_set_visible("Instances_phone_menu", true)
