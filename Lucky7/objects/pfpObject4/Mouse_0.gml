@@ -7,3 +7,6 @@ if (global.time == 3 and global.money >= 50 and global.actions > 0) then {
 	controller.alarm[3] = 1;
 	audio_play_sound(CashRegister, 0, false);
 }
+else {
+	if (!audio_is_playing(ERROR)) audio_play_sound(ERROR, 0, false, 1.2);
+}
