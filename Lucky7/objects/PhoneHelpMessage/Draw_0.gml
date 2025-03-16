@@ -1,8 +1,8 @@
-var m = "Click on the profile pictures to purchase!"
+var m = "Click on the contact photos to buy!"
 
-draw_set_alpha(0);
+draw_set_alpha(1);
 text_len = string_width(m);
-draw_rectangle(x, y, x + 200, y + 50, false);
+draw_rectangle(x - 200, y, x + 210, y + 40, false);
 draw_set_alpha(1);
 
 // Draw text
