@@ -4,7 +4,7 @@ function JournalMenu(_x, _y, _options, _description = -1, _journal_scalar)
 	with (instance_create_depth(_x, _y, -999, JournalMenu_obj)) {
 		options = _options;
 		description = _description;
-		optionsCount = array_length(_options)
+		optionsCount = array_length(_options);
 		hovermarker = "";
 		
 		margin = 8;
