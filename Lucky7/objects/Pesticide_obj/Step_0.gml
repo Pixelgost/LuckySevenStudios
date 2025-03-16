@@ -7,5 +7,4 @@ if (x > global.fieldx1 and x < global.fieldx2 and y > global.fieldy1 and y < glo
 			x = og_x;
 			y = og_y;
 	}
-	audio_play_sound(Spray, 0, false);
 }
