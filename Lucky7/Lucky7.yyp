@@ -44,7 +44,12 @@
     {"id":{"name":"ExitButton","path":"objects/ExitButton/ExitButton.yy",},},
     {"id":{"name":"FarmTileBObject","path":"objects/FarmTileBObject/FarmTileBObject.yy",},},
     {"id":{"name":"Fertilizer_obj","path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},},
+
     {"id":{"name":"FertilizerIcon","path":"objects/FertilizerIcon/FertilizerIcon.yy",},},
+
+    {"id":{"name":"GameOver_obj","path":"objects/GameOver_obj/GameOver_obj.yy",},},
+    {"id":{"name":"GameOverMessage","path":"objects/GameOverMessage/GameOverMessage.yy",},},
+
     {"id":{"name":"GrassTileObject","path":"objects/GrassTileObject/GrassTileObject.yy",},},
     {"id":{"name":"InfoButton","path":"objects/InfoButton/InfoButton.yy",},},
     {"id":{"name":"JournalIcon","path":"objects/JournalIcon/JournalIcon.yy",},},
@@ -117,6 +122,7 @@
     {"id":{"name":"Sprite_phone","path":"sprites/Sprite_phone/Sprite_phone.yy",},},
     {"id":{"name":"Sprite_phonebook_button","path":"sprites/Sprite_phonebook_button/Sprite_phonebook_button.yy",},},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+    {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},},
     {"id":{"name":"StartButton_spr","path":"sprites/StartButton_spr/StartButton_spr.yy",},},
     {"id":{"name":"Title_spr","path":"sprites/Title_spr/Title_spr.yy",},},
     {"id":{"name":"TitleBackground_spr","path":"sprites/TitleBackground_spr/TitleBackground_spr.yy",},},
