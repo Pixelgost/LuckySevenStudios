@@ -10,12 +10,8 @@ function JournalMenu(_x, _y, _options, _description = -1, _journal_scalar)
 		margin = 8;
 		draw_set_font(MainFont);
 		
-		width = 1;
-		if (_description != -1) width = max(width, string_width(_description));
-		for (var i = 0; i < optionsCount; i++) {
-			width = max(width, string_width(_options[i][0]));
-		}
-		width += string_width(hovermarker);
+		width = 100;
+		
 		
 		heightLine = 60;
 		height = heightLine * (optionsCount + !(description == -1));

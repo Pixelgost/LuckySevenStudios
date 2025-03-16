@@ -97,7 +97,7 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Beautiful day to visit Barcelona",
 							"Your soil's pH balance is all off. My pesticide did a real number on it.",
 							"Good luck with the soil today!",
-							"Being a tourist in Spain is incredible!"
+							"Owning a grovery store in Sierra Nevada is incredible!"
 							],
 							["I am here to help with your farm!", 
 							"My new car is beautiful!",
@@ -111,7 +111,7 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Beautiful day to visit Barcelona",
 							"Your soil can't hold nutrients, get some nice fertilizer!",
 							"Good luck with the soil today!",
-							"Being a tourist in Spain is incredible!"
+							"Owning a grovery store in Sierra Nevada is incredible!"
 							]
 ]
 

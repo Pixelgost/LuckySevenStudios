@@ -1,6 +1,12 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+
+    {"name":"FertilizerIcon","order":3,"path":"objects/FertilizerIcon/FertilizerIcon.yy",},
+    {"name":"PesticideIcon","order":4,"path":"objects/PesticideIcon/PesticideIcon.yy",},
+    {"name":"WaterIcon","order":2,"path":"objects/WaterIcon/WaterIcon.yy",},
+    {"name":"YouWinScreenObject","order":1,"path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},
+    {"name":"YouWinScreen","order":1,"path":"sprites/YouWinScreen/YouWinScreen.yy",},
     {"name":"AdvanceButton","order":7,"path":"objects/AdvanceButton/AdvanceButton.yy",},
     {"name":"BLObject","order":1,"path":"objects/BLObject/BLObject.yy",},
     {"name":"BRObject","order":24,"path":"objects/BRObject/BRObject.yy",},
@@ -35,5 +41,6 @@
     {"name":"TRObject","order":11,"path":"objects/TRObject/TRObject.yy",},
     {"name":"Water_obj","order":28,"path":"objects/Water_obj/Water_obj.yy",},
     {"name":"Sprite35","order":1,"path":"sprites/Sprite35/Sprite35.yy",},
+
   ],
 }
