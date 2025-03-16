@@ -8,6 +8,8 @@ if (position_meeting(mouse_x, mouse_y, self))
 
 	if (mouse_check_button_released(mb_left)) {
 		//image_alpha = 1;
+		audio_play_sound(Button, 1, false)
+		audio_stop_sound(music_social)
 		room_goto(Room1);
 		//pressed = false;
 	}

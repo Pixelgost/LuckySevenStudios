@@ -29,22 +29,25 @@ if (global.time == 14) {
 
 
 global.water_supply = 100
-if (global.time == 4) then {
-	global.water_supply = water_bonus;
-	audio_play_sound(music_crisis, 1, true, 0.6);
-	audio_stop_sound(music_farm);
-}
+
 
 var journal = instance_find(JournalIcon, 0);
 if (global.time == 5 || global.time == 9 || global.time == 13) then {
 	journal.alarm[0] = 1;
 }
 
+
+
+if (global.time == 4) then {
+	global.water_supply = water_bonus;
+	audio_play_sound(music_crisis, 1, true, 0.6);
+	audio_sound_gain(music_farm, 0, 0);
+}
 else if (global.time == 8) then {
 
 	global.pest += 55 + pest_bonus;
 	audio_play_sound(music_crisis, 1, true, 0.6);
-	audio_stop_sound(music_farm);
+	audio_sound_gain(music_farm, 0, 0);
 }
 else if (global.time == 9 and global.choices == 0) then {
 	randomize()
@@ -55,17 +58,17 @@ else if (global.time == 9 and global.choices == 0) then {
 			instance_destroy(crop);
 		}
 	}
-	audio_play_sound(music_crisis, 1, true, 0.6);
-	audio_stop_sound(music_farm);
+	if (!audio_is_playing(music_crisis)) audio_play_sound(music_crisis, 1, true, 0.6);
+	audio_sound_gain(music_farm, 0, 0);
 
 }
 else if (global.time == 12) then {
 	global.nutrition -= (60 + nutri_bonus + pest_bonus / 2)
 	audio_play_sound(music_crisis, 1, true, 0.6);
-	audio_stop_sound(music_farm);
+	audio_sound_gain(music_farm, 0, 0);
 }
 else {
-	if (!audio_is_playing(music_farm)) audio_play_sound(music_farm, 0, true, 0.6);
+	audio_sound_gain(music_farm, 0.6, 0);
 	audio_stop_sound(music_crisis);
 }
 global.actions = 1;
