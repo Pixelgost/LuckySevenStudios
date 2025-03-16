@@ -2,5 +2,6 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"GameOver_spr","order":1,"path":"sprites/GameOver_spr/GameOver_spr.yy",},
+    {"name":"StartButton_spr","order":1,"path":"sprites/StartButton_spr/StartButton_spr.yy",},
   ],
 }
