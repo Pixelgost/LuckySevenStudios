@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":4.512,
+  "duration":2.304,
   "name":"FertilizerSound",
   "parent":{
     "name":"Sounds",
