@@ -26,4 +26,5 @@ nutri_bonus = 0;
 
 global.crisis = false;
 global.phone_visible = false;
+global.can_buy = false;
 layer_set_visible("Instances_1", false);

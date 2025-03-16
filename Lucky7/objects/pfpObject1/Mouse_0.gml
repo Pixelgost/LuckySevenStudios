@@ -14,4 +14,3 @@ else {
 	if (!audio_is_playing(ERROR)) audio_play_sound(ERROR, 0, false, 1.2);
 }
 
-if (global.crisis) layer_set_visible("Instances_1", true);

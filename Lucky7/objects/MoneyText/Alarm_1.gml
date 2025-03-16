@@ -40,6 +40,13 @@ if (global.time == 5 || global.time == 9 || global.time == 13) then {
 	journal.alarm[0] = 1;
 }
 
+if (global.time == 3 || global.time == 6 || global.time == 7 || global.time == 11) {
+	global.can_buy = true;
+}
+else {
+	global.can_buy = false;
+}
+
 
 global.crisis = true;
 if (global.time == 4) then {
@@ -84,5 +91,10 @@ else {
 }
 global.actions = 1;
 
-if (global.crisis && layer_get_visible("Instances_phone_menu")) layer_set_visible("Instances_1", true);
+if (global.can_buy && layer_get_visible("Instances_phone_menu")) {
+	layer_set_visible("Instances_1", true);
+}
+else {
+	layer_set_visible("Instances_1", false);
+}
 	
