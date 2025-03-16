@@ -24,6 +24,10 @@ global.water_supply = 100
 if (global.time == 4) then {
 	global.water_supply = water_bonus;
 }
+var journal = instance_find(JournalIcon, 0);
+if (global.time == 5 || global.time == 9 || global.time == 13) then {
+	journal.alarm[0] = 1;
+}
 if (global.time == 8) then {
 	global.pest += 55 + pest_bonus;
 }
