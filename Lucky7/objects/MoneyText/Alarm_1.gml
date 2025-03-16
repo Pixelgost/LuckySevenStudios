@@ -25,7 +25,7 @@ if (global.time == 4) then {
 	global.water_supply = water_bonus;
 }
 if (global.time == 8) then {
-	global.pest += 75 + pest_bonus;
+	global.pest += 55 + pest_bonus;
 }
 if (global.time == 9 and global.choices == 0) then {
 	randomize()
@@ -39,6 +39,6 @@ if (global.time == 9 and global.choices == 0) then {
 
 }
 if (global.time == 12) then {
-	global.nutrition -= (50 + pest_bonus)
+	global.nutrition -= (40 + nutri_bonus + pest_bonus / 2)
 }
 global.actions = 1;

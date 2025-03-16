@@ -13,6 +13,7 @@ if (global.time == 3) {
 	global.actions -=1
 	global.pesticide_supply = 100;
 	global.choices = 0;
+	nutri_bonus = 25;
 } else if (global.time == 11) {
 	global.money -=600;
 	global.actions -=1

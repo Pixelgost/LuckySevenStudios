@@ -20,3 +20,4 @@ global.actions = 1;
 water_bonus = 0;
 global.choices = 0;
 pest_bonus = 0;
+nutri_bonus = 0;
