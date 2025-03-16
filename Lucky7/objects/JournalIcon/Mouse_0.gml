@@ -1,5 +1,5 @@
 if (!journal_open ) {
-	audio_play_sound(Button, 1, false)
+	if (!audio_is_playing(Button)) audio_play_sound(Button, 1, false);
 	//journal_open = true;
 	JournalMenu(
 		16 * self.journal_scalar, // Directly affects the text margins
