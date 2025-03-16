@@ -15,4 +15,3 @@ else {
 }
 
 
-if (global.crisis) layer_set_visible("Instances_1", true);
