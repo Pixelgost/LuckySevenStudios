@@ -19,3 +19,4 @@ global.pest_range = [0, 35];
 global.actions = 1;
 water_bonus = 0;
 global.choices = 0;
+pest_bonus = 0;
