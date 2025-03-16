@@ -1,12 +1,6 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-
-    {"name":"FertilizerIcon","order":3,"path":"objects/FertilizerIcon/FertilizerIcon.yy",},
-    {"name":"PesticideIcon","order":4,"path":"objects/PesticideIcon/PesticideIcon.yy",},
-    {"name":"WaterIcon","order":2,"path":"objects/WaterIcon/WaterIcon.yy",},
-    {"name":"YouWinScreenObject","order":1,"path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},
-    {"name":"YouWinScreen","order":1,"path":"sprites/YouWinScreen/YouWinScreen.yy",},
     {"name":"AdvanceButton","order":7,"path":"objects/AdvanceButton/AdvanceButton.yy",},
     {"name":"BLObject","order":1,"path":"objects/BLObject/BLObject.yy",},
     {"name":"BRObject","order":24,"path":"objects/BRObject/BRObject.yy",},
@@ -14,6 +8,7 @@
     {"name":"ExitButton","order":21,"path":"objects/ExitButton/ExitButton.yy",},
     {"name":"FarmTileBObject","order":27,"path":"objects/FarmTileBObject/FarmTileBObject.yy",},
     {"name":"Fertilizer_obj","order":26,"path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},
+    {"name":"FertilizerIcon","order":3,"path":"objects/FertilizerIcon/FertilizerIcon.yy",},
     {"name":"GameOver_obj","order":32,"path":"objects/GameOver_obj/GameOver_obj.yy",},
     {"name":"GameOverMessage","order":33,"path":"objects/GameOverMessage/GameOverMessage.yy",},
     {"name":"GrassTileObject","order":8,"path":"objects/GrassTileObject/GrassTileObject.yy",},
@@ -27,6 +22,7 @@
     {"name":"obj_phoneBook_button","order":19,"path":"objects/obj_phoneBook_button/obj_phoneBook_button.yy",},
     {"name":"obj_phonebook_menu","order":10,"path":"objects/obj_phonebook_menu/obj_phonebook_menu.yy",},
     {"name":"Pesticide_obj","order":31,"path":"objects/Pesticide_obj/Pesticide_obj.yy",},
+    {"name":"PesticideIcon","order":4,"path":"objects/PesticideIcon/PesticideIcon.yy",},
     {"name":"pfpObject1","order":23,"path":"objects/pfpObject1/pfpObject1.yy",},
     {"name":"pfpObject2","order":25,"path":"objects/pfpObject2/pfpObject2.yy",},
     {"name":"pfpObject3","order":29,"path":"objects/pfpObject3/pfpObject3.yy",},
@@ -40,7 +36,9 @@
     {"name":"TObject","order":16,"path":"objects/TObject/TObject.yy",},
     {"name":"TRObject","order":11,"path":"objects/TRObject/TRObject.yy",},
     {"name":"Water_obj","order":28,"path":"objects/Water_obj/Water_obj.yy",},
+    {"name":"WaterIcon","order":2,"path":"objects/WaterIcon/WaterIcon.yy",},
+    {"name":"YouWinScreenObject","order":1,"path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},
     {"name":"Sprite35","order":1,"path":"sprites/Sprite35/Sprite35.yy",},
-
+    {"name":"YouWinScreen","order":1,"path":"sprites/YouWinScreen/YouWinScreen.yy",},
   ],
 }
