@@ -13,9 +13,9 @@ points /= 3.0;
 randomize()
 var growth = random_range(1,7);
 maturity += (growth * points);
-if (maturity >= 15) then {
+if (maturity >= 10) then {
 	instance_create_depth (x,y - 20,-999990, SellButtonObject, {
 		parent_id : id
 	});
-	maturity = 15
+	maturity = 10
 }
