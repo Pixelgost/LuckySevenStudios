@@ -25,17 +25,20 @@ if (global.time == 4) then {
 	global.water_supply = water_bonus;
 }
 if (global.time == 8) then {
-	global.pest += 40 + pest_bonus;
+	global.pest += 75 + pest_bonus;
 }
 if (global.time == 9 and global.choices == 0) then {
 	randomize()
 	for (var i = 0; i < instance_number(Crop); ++i;) {
 		var chance = random_range(1, 3)
-		if (chance < 2) then {
-			var crop = instance_find(Crop,i);	
+		var crop = instance_find(Crop,i);
+		if (chance < 2 && crop.maturity < 10) then {
 			instance_destroy(crop);
 		}
 	}
 
+}
+if (global.time == 12) then {
+	global.nutrition -= (50 + pest_bonus)
 }
 global.actions = 1;

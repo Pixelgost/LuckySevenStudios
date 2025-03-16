@@ -6,7 +6,11 @@ global.first_expert = [ ["Hello! I am excited for you to begin your farming jour
 						"I'm having a pleasant day with my guard dog!",
 						"There is a swarm of mice coming in! If you need some repellent I have some great supplies! Its just $400!",
 						"The swarm is coming!",
-						"I believe your repellent was too strong, some plants died!"
+						"I believe your repellent was too strong, some plants died!",
+						"I love grazing with my animals",
+						"Looks like your soil is loose and can't hold nutrition, the problem is worsened by the strong pesticides.",
+						"Today is the day to fix your soil!",
+						"I love being a shepherd, I get to meet so many interesting people like you!"
 						],
 						["Hello! I am excited for you to begin your farming journey!",
 						"I saw some great landscapes on my hike yesterday!",
@@ -16,7 +20,11 @@ global.first_expert = [ ["Hello! I am excited for you to begin your farming jour
 						"I'm having a pleasant day with my guard dog!",
 						"There is a swarm of mice coming in! If you need some repellent I have some great supplies! Its just $400!",
 						"The swarm is coming!",
-						"Looks like my repellent did the job!"
+						"Looks like my repellent did the job!",
+						"I love grazing with my animals",
+						"Looks like your soil is loose and can't hold nutrition",
+						"Today is the day to fix your soil!",
+						"I love being a shepherd, I get to meet so many interesting people like you!"
 						]
 ]
 global.second_expert = [["Amigo! Welcome to the world of farming!",
@@ -27,7 +35,11 @@ global.second_expert = [["Amigo! Welcome to the world of farming!",
 						"Hey there, I have some fertilizer for sale, if you would like to top off! Only $250",
 						"Looks like some pests are coming in! This swarm is even worse because someone dried up the waterhole!",
 						"MICE!!!!",
-						"Did you get past the pests?"
+						"Did you get past the pests?",
+						"I've got a few old mesh suits I'm replacing today, but I hope you have fun!",
+						"I've got some fertilizer for you! It's just $600",
+						"Your choice of fertilizer was subpar, hope you can last throughout today!",
+						"Being a beekeper is loads of fun!"
 						],
 						["Amigo! Welcome to the world of farming!",
 						"I need a new smoker! My old one is too skibidi rizz!",
@@ -37,7 +49,11 @@ global.second_expert = [["Amigo! Welcome to the world of farming!",
 						"Hey there, I have some fertilizer for sale, if you would like to top off! Only $250",
 						"Looks like some pests are coming in! This looks manageable for you.",
 						"MICE!!!!",
-						"Did you get past the pests?"
+						"Did you get past the pests?",
+						"I've got a few old mesh suits I'm replacing today, but I hope you have fun!",
+						"I've got some fertilizer for you! It's just $600",
+						"Glad I could help you out during this crisis!",
+						"Being a beekeper is loads of fun!"
 						]
 ]
 global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me know if you need help!",
@@ -48,7 +64,11 @@ global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me kno
 						"Would you like to buy some fertilizer? Only $150",
 						"A swarm of pests coming in, they seem more aggressive than usual!",
 						"So many mice....",
-						"Hope you are doing alright!"
+						"Hope you are doing alright!",
+						"It is fun driving a cab!",
+						"Hey I have some fertilizer to solve your soil problem! It's just $600!",
+						"Sorry if my fertilizer is not great, I hope I did not fail you!",
+						"Your father would have been proud"
 						],
 						["Hola! I am an old friend of your father, let me know if you need help!",
 						"How's it going! Madrid is gorgeous today.",
@@ -58,7 +78,11 @@ global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me kno
 						"Would you like to buy some fertilizer? Only $150",
 						"Some mice coming in, but I think you got it!",
 						"So many mice....",
-						"Hope you are doing alright!"
+						"Hope you are doing alright!",
+						"It is fun driving a cab!",
+						"Hey I have some fertilizer to solve your soil problem! It's just $600!",
+						"Sorry if my fertilizer is not great, I hope I did not fail you!",
+						"Your father would have been proud"
 						]
 ]
 global.second_nonexpert = [ ["I am here to help with your farm!", 
@@ -69,7 +93,11 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Traveling to Mallorca today, can't wait to see the beaches!",
 							"While I was in Mallorca, I bought the strongest pesticide. Since there are so many mice today, you will need it. Just $500!",
 							"Fend for yourself! Use my pesticide!",
-							"Oops, I think my pesticide was too strong..."
+							"Oops, I think my pesticide was too strong...",
+							"Beautiful day to visit Barcelona",
+							"Your soil's pH balance is all off. My pesticide did a real number on it.",
+							"Good luck with the soil today!",
+							"Being a tourist in Spain is incredible!"
 							],
 							["I am here to help with your farm!", 
 							"My new car is beautiful!",
@@ -79,7 +107,11 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Traveling to Mallorca today, can't wait to see the beaches!",
 							"While I was in Mallorca, I bought the strongest pesticides. If this doesn't get rid of the mice, nothing will. Just $500!",
 							"Fend for yourself!",
-							"Thank god your pesticide worked. Mine was way too strong!"
+							"Thank god your pesticide worked. Mine was way too strong!",
+							"Beautiful day to visit Barcelona",
+							"Your soil can't hold nutrients, get some nice fertilizer!",
+							"Good luck with the soil today!",
+							"Being a tourist in Spain is incredible!"
 							]
 ]
 
