@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"JournalIcon",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"FertilizerIcon",
+  "eventList":[],
   "managed":true,
-  "name":"JournalIcon",
+  "name":"FertilizerIcon",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"closed_book_sprite",
-    "path":"sprites/closed_book_sprite/closed_book_sprite.yy",
+    "name":"Fertilize",
+    "path":"sprites/Fertilize/Fertilize.yy",
   },
   "spriteMaskId":null,
   "visible":true,

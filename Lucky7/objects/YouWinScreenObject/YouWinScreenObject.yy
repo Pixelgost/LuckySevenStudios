@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"JournalIcon",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"YouWinScreenObject",
+  "eventList":[],
   "managed":true,
-  "name":"JournalIcon",
+  "name":"YouWinScreenObject",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"closed_book_sprite",
-    "path":"sprites/closed_book_sprite/closed_book_sprite.yy",
+    "name":"YouWinScreen",
+    "path":"sprites/YouWinScreen/YouWinScreen.yy",
   },
   "spriteMaskId":null,
   "visible":true,

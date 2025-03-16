@@ -39,7 +39,14 @@ if (global.time == 4) then {
 	audio_play_sound(music_crisis, 1, true, 0.6);
 	audio_stop_sound(music_farm);
 }
+
+var journal = instance_find(JournalIcon, 0);
+if (global.time == 5 || global.time == 9 || global.time == 13) then {
+	journal.alarm[0] = 1;
+}
+
 else if (global.time == 8) then {
+
 	global.pest += 55 + pest_bonus;
 	audio_play_sound(music_crisis, 1, true, 0.6);
 	audio_stop_sound(music_farm);
@@ -67,3 +74,4 @@ else {
 	audio_stop_sound(music_crisis);
 }
 global.actions = 1;
+	
