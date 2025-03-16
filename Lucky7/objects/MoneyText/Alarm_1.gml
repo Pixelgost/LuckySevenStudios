@@ -1,6 +1,6 @@
 randomize();
 var hydro_del = random_range(5, 15);
-var nutri_del = random_range(3, 10);
+var nutri_del = random_range(7, 12);
 var pest_del = random_range(2, 7);
 global.hydration -= hydro_del;
 global.nutrition -= nutri_del;
@@ -23,12 +23,7 @@ global.time +=1;
 
 
 if (global.time == 14) {
-	// Victory
-	
-	
-
-	
-	
+	// Victory	
 	
 }
 
@@ -65,7 +60,7 @@ else if (global.time == 9 and global.choices == 0) then {
 
 }
 else if (global.time == 12) then {
-	global.nutrition -= (40 + nutri_bonus + pest_bonus / 2)
+	global.nutrition -= (60 + nutri_bonus + pest_bonus / 2)
 	audio_play_sound(music_crisis, 1, true, 0.6);
 	audio_stop_sound(music_farm);
 }
