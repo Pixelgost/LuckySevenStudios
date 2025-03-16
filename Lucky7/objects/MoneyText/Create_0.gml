@@ -18,3 +18,4 @@ global.nutri_range = [70, 100];
 global.pest_range = [0, 35];
 global.actions = 1;
 water_bonus = 0;
+global.choices = 0;
