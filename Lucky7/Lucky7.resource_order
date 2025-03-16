@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"YouWinScreenObject","order":1,"path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},
+    {"name":"YouWinScreen","order":1,"path":"sprites/YouWinScreen/YouWinScreen.yy",},
+  ],
 }

@@ -46,3 +46,4 @@ if (global.time == 12) then {
 	global.nutrition -= (40 + nutri_bonus + pest_bonus / 2)
 }
 global.actions = 1;
+	
