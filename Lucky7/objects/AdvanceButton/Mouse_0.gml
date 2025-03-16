@@ -1,4 +1,7 @@
 // End game if any of the bars hits their fatal state:
+if (global.time == 14) then {
+		game_end();
+}
 if (global.hydration <= 0) {
 	global.GameOver_message = "Your crops died of dehydration.";
 	room_goto(GameOver)
