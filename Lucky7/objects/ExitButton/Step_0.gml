@@ -8,7 +8,7 @@ if (position_meeting(mouse_x, mouse_y, self))
 
 	if (mouse_check_button_released(mb_left)) {
 		//image_alpha = 1;
-		room_goto(Room1);
+		game_end();
 		//pressed = false;
 	}
 
