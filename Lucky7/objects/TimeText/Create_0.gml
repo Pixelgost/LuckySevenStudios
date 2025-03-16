@@ -4,3 +4,5 @@ padding = 10;
 width = 150;
 height = 40;
 font = MainFont
+crisis_text = "";
+crisis_texts = ["CRISIS: DROUGHT", "CRISIS: PEST ISSUE", "CRISIS: SOIL NUTRITION"]
