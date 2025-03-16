@@ -36,6 +36,7 @@
     {"name":"TObject","order":12,"path":"objects/TObject/TObject.yy",},
     {"name":"TRObject","order":10,"path":"objects/TRObject/TRObject.yy",},
     {"name":"Water_obj","order":20,"path":"objects/Water_obj/Water_obj.yy",},
+    {"name":"GameOver","order":1,"path":"rooms/GameOver/GameOver.yy",},
     {"name":"closed_book_sprite","order":9,"path":"sprites/closed_book_sprite/closed_book_sprite.yy",},
     {"name":"CropSprite","order":6,"path":"sprites/CropSprite/CropSprite.yy",},
     {"name":"DudeSprite","order":21,"path":"sprites/DudeSprite/DudeSprite.yy",},
