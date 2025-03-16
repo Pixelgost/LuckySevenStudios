@@ -45,6 +45,7 @@
     {"id":{"name":"FarmTileBObject","path":"objects/FarmTileBObject/FarmTileBObject.yy",},},
     {"id":{"name":"Fertilizer_obj","path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},},
     {"id":{"name":"GameOver_obj","path":"objects/GameOver_obj/GameOver_obj.yy",},},
+    {"id":{"name":"GameOverMessage","path":"objects/GameOverMessage/GameOverMessage.yy",},},
     {"id":{"name":"GrassTileObject","path":"objects/GrassTileObject/GrassTileObject.yy",},},
     {"id":{"name":"InfoButton","path":"objects/InfoButton/InfoButton.yy",},},
     {"id":{"name":"JournalIcon","path":"objects/JournalIcon/JournalIcon.yy",},},

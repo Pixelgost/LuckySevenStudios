@@ -9,6 +9,7 @@
     {"name":"FarmTileBObject","order":27,"path":"objects/FarmTileBObject/FarmTileBObject.yy",},
     {"name":"Fertilizer_obj","order":26,"path":"objects/Fertilizer_obj/Fertilizer_obj.yy",},
     {"name":"GameOver_obj","order":32,"path":"objects/GameOver_obj/GameOver_obj.yy",},
+    {"name":"GameOverMessage","order":33,"path":"objects/GameOverMessage/GameOverMessage.yy",},
     {"name":"GrassTileObject","order":8,"path":"objects/GrassTileObject/GrassTileObject.yy",},
     {"name":"InfoButton","order":6,"path":"objects/InfoButton/InfoButton.yy",},
     {"name":"JournalIcon","order":9,"path":"objects/JournalIcon/JournalIcon.yy",},
