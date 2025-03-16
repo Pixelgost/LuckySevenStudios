@@ -1,1 +1,1 @@
-audio_play_sound(Button, 0, false);
+audio_play_sound(PhoneNotification, 0, false, 0.6);
