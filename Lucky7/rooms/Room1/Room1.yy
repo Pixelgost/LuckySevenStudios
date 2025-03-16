@@ -166,12 +166,8 @@
     {"name":"inst_7E81C920","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_753877E2","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_49AC4EDA","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_42AC815D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4DB00009","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_578261B9","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_1DA34FA5","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_55868EB2","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_46BAD5E8","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_42AC815D","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -185,10 +181,6 @@
       ],"layers":[],"name":"UI_Layer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_phone_menu","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_42AC815D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_42AC815D","objectId":{"name":"obj_phonebook_menu","path":"objects/obj_phonebook_menu/obj_phonebook_menu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":8.5,"scaleY":11.0,"x":864.0,"y":64.0,},
-        {"$GMRInstance":"v1","%Name":"inst_578261B9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_578261B9","objectId":{"name":"pfpObject1","path":"objects/pfpObject1/pfpObject1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.25,"scaleY":0.25,"x":1225.0,"y":160.0,},
-        {"$GMRInstance":"v1","%Name":"inst_1DA34FA5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1DA34FA5","objectId":{"name":"pfpObject2","path":"objects/pfpObject2/pfpObject2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.25,"scaleY":0.25,"x":1225.0,"y":305.0,},
-        {"$GMRInstance":"v1","%Name":"inst_55868EB2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_55868EB2","objectId":{"name":"pfpObject3","path":"objects/pfpObject3/pfpObject3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.25,"scaleY":0.25,"x":1225.0,"y":440.0,},
-        {"$GMRInstance":"v1","%Name":"inst_46BAD5E8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_46BAD5E8","objectId":{"name":"pfpObject4","path":"objects/pfpObject4/pfpObject4.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.25,"scaleY":0.25,"x":1225.0,"y":565.0,},
       ],"layers":[],"name":"Instances_phone_menu","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4B90FD76","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B90FD76","objectId":{"name":"BLObject","path":"objects/BLObject/BLObject.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":448.0,},

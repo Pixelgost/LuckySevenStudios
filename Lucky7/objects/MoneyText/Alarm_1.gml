@@ -21,7 +21,3 @@ for (var i = 0; i < instance_number(Crop); ++i;)
 }
 global.time +=1;
 global.water_supply = 100
-if (global.time == 4) then {
-	global.water_supply = water_bonus;
-}
-global.actions = 1;

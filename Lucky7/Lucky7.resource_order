@@ -1,14 +1,4 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"MsgFont","order":1,"path":"fonts/MsgFont/MsgFont.yy",},
-    {"name":"pfpObject1","order":1,"path":"objects/pfpObject1/pfpObject1.yy",},
-    {"name":"pfpObject2","order":2,"path":"objects/pfpObject2/pfpObject2.yy",},
-    {"name":"pfpObject3","order":3,"path":"objects/pfpObject3/pfpObject3.yy",},
-    {"name":"pfpObject4","order":4,"path":"objects/pfpObject4/pfpObject4.yy",},
-    {"name":"PFP1","order":1,"path":"sprites/PFP1/PFP1.yy",},
-    {"name":"PFP2","order":2,"path":"sprites/PFP2/PFP2.yy",},
-    {"name":"PFP3","order":3,"path":"sprites/PFP3/PFP3.yy",},
-    {"name":"PFP4","order":4,"path":"sprites/PFP4/PFP4.yy",},
-  ],
+  "ResourceOrderSettings":[],
 }

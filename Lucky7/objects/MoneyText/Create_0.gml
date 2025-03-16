@@ -16,5 +16,3 @@ global.pest = 0;
 global.hydro_range = [60, 100];
 global.nutri_range = [70, 100]; 
 global.pest_range = [0, 35];
-global.actions = 1;
-water_bonus = 0;
