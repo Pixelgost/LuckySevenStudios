@@ -60,6 +60,9 @@ if (global.time == 4) then {
 else if (global.time == 8) then {
 
 	global.pest += 55 + pest_bonus;
+	if (global.pest > 100) then {
+		global.pest =100;
+	}
 	audio_play_sound(music_crisis, 1, true, 0.6);
 	audio_sound_gain(music_farm, 0, 0);
 }
@@ -78,6 +81,9 @@ else if (global.time == 9 and global.choices == 0) then {
 }
 else if (global.time == 12) then {
 	global.nutrition -= (60 + nutri_bonus + pest_bonus / 2)
+	if(global.nutrition < 0) then {
+		global.nutrition = 0;
+	}
 	audio_play_sound(music_crisis, 1, true, 0.6);
 	audio_sound_gain(music_farm, 0, 0);
 }
