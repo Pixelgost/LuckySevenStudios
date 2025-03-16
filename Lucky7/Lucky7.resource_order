@@ -1,4 +1,13 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Button","order":4,"path":"sounds/Button/Button.yy",},
+    {"name":"CashRegister","order":5,"path":"sounds/CashRegister/CashRegister.yy",},
+    {"name":"FertilizerSound","order":8,"path":"sounds/FertilizerSound/FertilizerSound.yy",},
+    {"name":"music_crisis","order":3,"path":"sounds/music_crisis/music_crisis.yy",},
+    {"name":"music_farm","order":6,"path":"sounds/music_farm/music_farm.yy",},
+    {"name":"music_social","order":1,"path":"sounds/music_social/music_social.yy",},
+    {"name":"Spray","order":2,"path":"sounds/Spray/Spray.yy",},
+    {"name":"WateringCan","order":7,"path":"sounds/WateringCan/WateringCan.yy",},
+  ],
 }
