@@ -19,14 +19,21 @@ for (var i = 0; i < instance_number(Crop); ++i;)
     var crop = instance_find(Crop,i);
 	crop.alarm[0] = 2;
 }
-global.time +=1;
 
 
-if (global.time == 14) {
-	// Victory	
-	
+
+if (global.time == 14) then {
+		game_end();
 }
 
+global.time +=1;
+if (global.time == 14) {
+
+	// Victory
+	layer_set_visible("Instances_phone_menu", true)
+	instance_create_depth(room_width / 2 - 250, room_height / 2 - 350,-999999, YouWinScreenObject);
+
+}
 
 global.water_supply = 100
 

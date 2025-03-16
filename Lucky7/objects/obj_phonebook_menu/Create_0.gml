@@ -1,4 +1,4 @@
-global.first_expert = [ ["Hello! I am excited for you to begin your farming journey!",
+global.first_expert = [ ["I'm glad to see you carry on your father's legacy. If you need help I am here.",
 						"I saw some great landscapes on my hike yesterday!",
 						"Temperatures have been rising! I think there will be a drought soon!",
 						"The Drought is here, I hope your water supply is enough!",
@@ -8,11 +8,12 @@ global.first_expert = [ ["Hello! I am excited for you to begin your farming jour
 						"The swarm is coming!",
 						"I believe your repellent was too strong, some plants died!",
 						"I love grazing with my animals",
-						"Looks like your soil is loose and can't hold nutrition, the problem is worsened by the strong pesticides.",
+						"I've got some fertilizer for you! It's just $600",
 						"Today is the day to fix your soil!",
-						"I love being a shepherd, I get to meet so many interesting people like you!"
+						"I love being a shepherd, I get to meet so many interesting people like you!",
+						"You did it!"
 						],
-						["Hello! I am excited for you to begin your farming journey!",
+						["I'm glad to see you carry on your father's legacy. If you need help I am here.",
 						"I saw some great landscapes on my hike yesterday!",
 						"Temperatures have been rising! I think there will be a drought soon!",
 						"The Drought is here, I hope your water supply is enough!",
@@ -22,12 +23,13 @@ global.first_expert = [ ["Hello! I am excited for you to begin your farming jour
 						"The swarm is coming!",
 						"Looks like my repellent did the job!",
 						"I love grazing with my animals",
-						"Looks like your soil is loose and can't hold nutrition",
-						"Today is the day to fix your soil!",
-						"I love being a shepherd, I get to meet so many interesting people like you!"
+						"I've got some fertilizer for you! It's just $600",
+						"Glad I could help!",
+						"I love being a shepherd, I get to meet so many interesting people like you!",
+						"You did it!"
 						]
 ]
-global.second_expert = [["Amigo! Welcome to the world of farming!",
+global.second_expert = [["You have 13 days to collect evidence of crises events in your journal, to convince the government of farmer's plights",
 						"I need a new smoker! My old one is too skibidi rizz!",
 						"I saw an old irrigation line nearby! If you need access before the drought, it's only $50!",
 						"Today is Drought Day!",
@@ -37,11 +39,12 @@ global.second_expert = [["Amigo! Welcome to the world of farming!",
 						"MICE!!!!",
 						"Did you get past the pests?",
 						"I've got a few old mesh suits I'm replacing today, but I hope you have fun!",
-						"I've got some fertilizer for you! It's just $600",
+						"Looks like your soil is loose and can't hold nutrition, the problem is worsened by the strong pesticides.",
 						"Your choice of fertilizer was subpar, hope you can last throughout today!",
-						"Being a beekeper is loads of fun!"
+						"Being a beekeper is loads of fun!",
+						"Congratulations!"
 						],
-						["Amigo! Welcome to the world of farming!",
+						["You have 13 days to collect evidence of crises events in your journal, to convince the government of farmer's plights",
 						"I need a new smoker! My old one is too skibidi rizz!",
 						"I saw an old irrigation line nearby! If you need access before the drought, it's only $50!",
 						"Today is Drought Day!",
@@ -51,12 +54,13 @@ global.second_expert = [["Amigo! Welcome to the world of farming!",
 						"MICE!!!!",
 						"Did you get past the pests?",
 						"I've got a few old mesh suits I'm replacing today, but I hope you have fun!",
-						"I've got some fertilizer for you! It's just $600",
-						"Glad I could help you out during this crisis!",
-						"Being a beekeper is loads of fun!"
+						"Looks like your soil is loose and can't hold nutrition.",
+						"Today is the day to fix your soil!",
+						"Being a beekeper is loads of fun!",
+						"Congratulations!"
 						]
 ]
-global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me know if you need help!",
+global.first_nonexpert = [ ["I am one of your father's four closest friends. I'm glad to see you have inherited his farm!",
 						"How's it going! Madrid is gorgeous today.",
 						"Beware of the drought! I have a water source for you, there is a watering hole not far from here. It's only $50.",
 						"Brace for Drought!",
@@ -68,9 +72,10 @@ global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me kno
 						"It is fun driving a cab!",
 						"Hey I have some fertilizer to solve your soil problem! It's just $600!",
 						"Sorry if my fertilizer is not great, I hope I did not fail you!",
-						"Your father would have been proud"
+						"Your father would have been proud",
+						"You gathered enough evidence and you saved the farmers"
 						],
-						["Hola! I am an old friend of your father, let me know if you need help!",
+						["I am one of your father's four closest friends. I'm glad to see you have inherited his farm!",
 						"How's it going! Madrid is gorgeous today.",
 						"Beware of the drought! I have a water source for you, there is a watering hole not far from here. It's only $50.",
 						"Brace for Drought!",
@@ -82,10 +87,11 @@ global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me kno
 						"It is fun driving a cab!",
 						"Hey I have some fertilizer to solve your soil problem! It's just $600!",
 						"Sorry if my fertilizer is not great, I hope I did not fail you!",
-						"Your father would have been proud"
+						"Your father would have been proud",
+						"You gathered enough evidence and you saved the farmers!"
 						]
 ]
-global.second_nonexpert = [ ["I am here to help with your farm!", 
+global.second_nonexpert = [ ["I'm sorry that your dad died, he gets five big booms!", 
 							"My new car is beautiful!",
 							"A friend told me that there will be a drought soon!",
 							"AHHHHH DROUGHT!",
@@ -97,9 +103,10 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Beautiful day to visit Barcelona",
 							"Your soil's pH balance is all off. My pesticide did a real number on it.",
 							"Good luck with the soil today!",
-							"Owning a grovery store in Sierra Nevada is incredible!"
+							"Owning a grovery store in Sierra Nevada is incredible!",
+							"Your evidence will inspire the government to fight climate change and stop future crises!"
 							],
-							["I am here to help with your farm!", 
+							["I'm sorry that your dad died, he gets five big booms!", 
 							"My new car is beautiful!",
 							"A friend told me that there will be a drought soon!",
 							"AHHHHH DROUGHT!",
@@ -111,7 +118,8 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Beautiful day to visit Barcelona",
 							"Your soil can't hold nutrients, get some nice fertilizer!",
 							"Good luck with the soil today!",
-							"Owning a grovery store in Sierra Nevada is incredible!"
+							"Owning a grovery store in Sierra Nevada is incredible!",
+							"Your evidence will inspire the government to fight climate change and stop future crises!"
 							]
 ]
 
