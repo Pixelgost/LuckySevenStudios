@@ -1,4 +1,4 @@
-global.first_expert = [ ["Hello! I am excited for you to begin your farming journey!",
+global.first_expert = [ ["I'm glad to see you carry on your father's legacy. If you need help I am here.",
 						"I saw some great landscapes on my hike yesterday!",
 						"Temperatures have been rising! I think there will be a drought soon!",
 						"The Drought is here, I hope your water supply is enough!",
@@ -12,7 +12,7 @@ global.first_expert = [ ["Hello! I am excited for you to begin your farming jour
 						"Today is the day to fix your soil!",
 						"I love being a shepherd, I get to meet so many interesting people like you!"
 						],
-						["Hello! I am excited for you to begin your farming journey!",
+						["I'm glad to see you carry on your father's legacy. If you need help I am here.",
 						"I saw some great landscapes on my hike yesterday!",
 						"Temperatures have been rising! I think there will be a drought soon!",
 						"The Drought is here, I hope your water supply is enough!",
@@ -27,7 +27,7 @@ global.first_expert = [ ["Hello! I am excited for you to begin your farming jour
 						"I love being a shepherd, I get to meet so many interesting people like you!"
 						]
 ]
-global.second_expert = [["Amigo! Welcome to the world of farming!",
+global.second_expert = [["You have 13 days to collect evidence of crises events in your journal, to convince the government of farmer's plights",
 						"I need a new smoker! My old one is too skibidi rizz!",
 						"I saw an old irrigation line nearby! If you need access before the drought, it's only $50!",
 						"Today is Drought Day!",
@@ -41,7 +41,7 @@ global.second_expert = [["Amigo! Welcome to the world of farming!",
 						"Your choice of fertilizer was subpar, hope you can last throughout today!",
 						"Being a beekeper is loads of fun!"
 						],
-						["Amigo! Welcome to the world of farming!",
+						["You have 13 days to collect evidence of crises events in your journal, to convince the government of farmer's plights",
 						"I need a new smoker! My old one is too skibidi rizz!",
 						"I saw an old irrigation line nearby! If you need access before the drought, it's only $50!",
 						"Today is Drought Day!",
@@ -56,7 +56,7 @@ global.second_expert = [["Amigo! Welcome to the world of farming!",
 						"Being a beekeper is loads of fun!"
 						]
 ]
-global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me know if you need help!",
+global.first_nonexpert = [ ["I am one of your father's four closest friends. I'm glad to see you have inherited his farm!",
 						"How's it going! Madrid is gorgeous today.",
 						"Beware of the drought! I have a water source for you, there is a watering hole not far from here. It's only $50.",
 						"Brace for Drought!",
@@ -70,7 +70,7 @@ global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me kno
 						"Sorry if my fertilizer is not great, I hope I did not fail you!",
 						"Your father would have been proud"
 						],
-						["Hola! I am an old friend of your father, let me know if you need help!",
+						["I am one of your father's four closest friends. I'm glad to see you have inherited his farm!",
 						"How's it going! Madrid is gorgeous today.",
 						"Beware of the drought! I have a water source for you, there is a watering hole not far from here. It's only $50.",
 						"Brace for Drought!",
@@ -85,7 +85,7 @@ global.first_nonexpert = [ ["Hola! I am an old friend of your father, let me kno
 						"Your father would have been proud"
 						]
 ]
-global.second_nonexpert = [ ["I am here to help with your farm!", 
+global.second_nonexpert = [ ["I'm sorry that your dad died, he gets five big booms!", 
 							"My new car is beautiful!",
 							"A friend told me that there will be a drought soon!",
 							"AHHHHH DROUGHT!",
@@ -99,7 +99,7 @@ global.second_nonexpert = [ ["I am here to help with your farm!",
 							"Good luck with the soil today!",
 							"Owning a grovery store in Sierra Nevada is incredible!"
 							],
-							["I am here to help with your farm!", 
+							["I'm sorry that your dad died, he gets five big booms!", 
 							"My new car is beautiful!",
 							"A friend told me that there will be a drought soon!",
 							"AHHHHH DROUGHT!",
