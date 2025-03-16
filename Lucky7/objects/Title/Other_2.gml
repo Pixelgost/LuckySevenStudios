@@ -1,0 +1,1 @@
+audio_play_sound(music_social, 0, true, 0.6);

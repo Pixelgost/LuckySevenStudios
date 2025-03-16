@@ -1,4 +1,6 @@
 if (!journal_open ) {
+	audio_play_sound(Button, 1, false)
+	//journal_open = true;
 	JournalMenu(
 		16 * self.journal_scalar, // Directly affects the text margins
 		835 - (90 * self.journal_scalar),
