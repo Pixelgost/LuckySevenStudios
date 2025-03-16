@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_phoneBook_button",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"TitleBackground",
+  "eventList":[],
   "managed":true,
-  "name":"obj_phoneBook_button",
+  "name":"TitleBackground",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_phonebook_button",
-    "path":"sprites/Sprite_phonebook_button/Sprite_phonebook_button.yy",
+    "name":"TitleBackground_spr",
+    "path":"sprites/TitleBackground_spr/TitleBackground_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
