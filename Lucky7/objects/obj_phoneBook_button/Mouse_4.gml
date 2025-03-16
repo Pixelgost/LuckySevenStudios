@@ -1,5 +1,5 @@
 //I havent created the menu object yet
-show_debug_message("Button works");
+//show_debug_message("Button works");
 
 //checks if phone menu layer is open, if not then makes the layer visible
  
