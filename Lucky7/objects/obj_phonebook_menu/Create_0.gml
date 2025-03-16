@@ -60,7 +60,7 @@ global.second_expert = [["You have 13 days to collect evidence of crises events 
 						"Congratulations!"
 						]
 ]
-global.first_nonexpert = [ ["I am one of your father's four closest friends. I'm glad to see you have inherited his farm!",
+global.first_nonexpert = [ ["I am one of your father's four closest friends. I'm glad you inherited his farm!",
 						"How's it going! Madrid is gorgeous today.",
 						"Beware of the drought! I have a water source for you, there is a watering hole not far from here. It's only $50.",
 						"Brace for Drought!",
@@ -75,7 +75,7 @@ global.first_nonexpert = [ ["I am one of your father's four closest friends. I'm
 						"Your father would have been proud",
 						"You gathered enough evidence and you saved the farmers"
 						],
-						["I am one of your father's four closest friends. I'm glad to see you have inherited his farm!",
+						["I am one of your father's four closest friends. I'm glad you inherited his farm!",
 						"How's it going! Madrid is gorgeous today.",
 						"Beware of the drought! I have a water source for you, there is a watering hole not far from here. It's only $50.",
 						"Brace for Drought!",
@@ -92,33 +92,33 @@ global.first_nonexpert = [ ["I am one of your father's four closest friends. I'm
 						]
 ]
 global.second_nonexpert = [ ["I'm sorry that your dad died, he gets five big booms!", 
-							"My new car is beautiful!",
+							"Busy with stocking up today but I hope you've been adjusting well!",
 							"A friend told me that there will be a drought soon!",
 							"AHHHHH DROUGHT!",
 							"I hope your farm is doing OK after that drought!",
-							"Traveling to Mallorca today, can't wait to see the beaches!",
+							"I got a fresh batch of tomatoes today. So excited!",
 							"While I was in Mallorca, I bought the strongest pesticide. Since there are so many mice today, you will need it. Just $500!",
 							"Fend for yourself! Use my pesticide!",
 							"Oops, I think my pesticide was too strong...",
-							"Beautiful day to visit Barcelona",
+							"Business is booming here!",
 							"Your soil's pH balance is all off. My pesticide did a real number on it.",
 							"Good luck with the soil today!",
-							"Owning a grovery store in Sierra Nevada is incredible!",
+							"Owning a grocery store in Sierra Nevada is incredible!Is farming fun?",
 							"Your evidence will inspire the government to fight climate change and stop future crises!"
 							],
 							["I'm sorry that your dad died, he gets five big booms!", 
-							"My new car is beautiful!",
+							"Busy with stocking up today but I hope you've been adjusting well!",
 							"A friend told me that there will be a drought soon!",
 							"AHHHHH DROUGHT!",
 							"I hope your farm is doing OK after that drought!",
-							"Traveling to Mallorca today, can't wait to see the beaches!",
+							"I got a fresh batch of tomatoes today. So excited!",
 							"While I was in Mallorca, I bought the strongest pesticides. If this doesn't get rid of the mice, nothing will. Just $500!",
 							"Fend for yourself!",
 							"Thank god your pesticide worked. Mine was way too strong!",
-							"Beautiful day to visit Barcelona",
+							"Business is booming here!",
 							"Your soil can't hold nutrients, get some nice fertilizer!",
 							"Good luck with the soil today!",
-							"Owning a grovery store in Sierra Nevada is incredible!",
+							"Owning a grocery store in Sierra Nevada is incredible!Is farming fun?",
 							"Your evidence will inspire the government to fight climate change and stop future crises!"
 							]
 ]
