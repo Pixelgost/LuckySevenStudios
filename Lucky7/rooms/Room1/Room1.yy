@@ -171,8 +171,9 @@
     {"name":"inst_1DA34FA5","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_55868EB2","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_46BAD5E8","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_4DB00009","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_1F9459DE","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_4DB00009","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_555660DD","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -350,6 +351,7 @@
         {"$GMRInstance":"v1","%Name":"inst_4DB00009","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4DB00009","objectId":{"name":"AdvanceButton","path":"objects/AdvanceButton/AdvanceButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":3.5,"x":608.0,"y":640.0,},
         {"$GMRInstance":"v1","%Name":"inst_5AE79748","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5AE79748","objectId":{"name":"obj_phoneBook_button","path":"objects/obj_phoneBook_button/obj_phoneBook_button.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1280.0,"y":32.0,},
         {"$GMRInstance":"v1","%Name":"inst_49AC4EDA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49AC4EDA","objectId":{"name":"JournalIcon","path":"objects/JournalIcon/JournalIcon.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.8333334,"scaleY":1.8333335,"x":0.0,"y":576.0,},
+        {"$GMRInstance":"v1","%Name":"inst_555660DD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_555660DD","objectId":{"name":"YouWinScreenObject","path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.28,"scaleY":2.0666666,"x":224.0,"y":160.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
