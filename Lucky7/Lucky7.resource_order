@@ -38,6 +38,7 @@
     {"name":"Water_obj","order":28,"path":"objects/Water_obj/Water_obj.yy",},
     {"name":"WaterIcon","order":2,"path":"objects/WaterIcon/WaterIcon.yy",},
     {"name":"YouWinScreenObject","order":1,"path":"objects/YouWinScreenObject/YouWinScreenObject.yy",},
+    {"name":"InstructionSprite","order":1,"path":"sprites/InstructionSprite/InstructionSprite.yy",},
     {"name":"Sprite35","order":1,"path":"sprites/Sprite35/Sprite35.yy",},
     {"name":"YouWinScreen","order":1,"path":"sprites/YouWinScreen/YouWinScreen.yy",},
   ],

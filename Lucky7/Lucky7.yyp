@@ -105,6 +105,7 @@
     {"id":{"name":"GameOver_spr","path":"sprites/GameOver_spr/GameOver_spr.yy",},},
     {"id":{"name":"GrassTile","path":"sprites/GrassTile/GrassTile.yy",},},
     {"id":{"name":"HelpButton_spr","path":"sprites/HelpButton_spr/HelpButton_spr.yy",},},
+    {"id":{"name":"InstructionSprite","path":"sprites/InstructionSprite/InstructionSprite.yy",},},
     {"id":{"name":"MatureGrapes","path":"sprites/MatureGrapes/MatureGrapes.yy",},},
     {"id":{"name":"Notification_red_circle_spr","path":"sprites/Notification_red_circle_spr/Notification_red_circle_spr.yy",},},
     {"id":{"name":"OpenJournal","path":"sprites/OpenJournal/OpenJournal.yy",},},
