@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_phonebook_menu",
+  "%Name":"pfpObject4",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_phonebook_menu",
+  "name":"pfpObject4",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_phone",
-    "path":"sprites/Sprite_phone/Sprite_phone.yy",
+    "name":"PFP4",
+    "path":"sprites/PFP4/PFP4.yy",
   },
   "spriteMaskId":null,
   "visible":true,
