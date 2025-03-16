@@ -65,6 +65,7 @@
     {"id":{"name":"pfpObject2","path":"objects/pfpObject2/pfpObject2.yy",},},
     {"id":{"name":"pfpObject3","path":"objects/pfpObject3/pfpObject3.yy",},},
     {"id":{"name":"pfpObject4","path":"objects/pfpObject4/pfpObject4.yy",},},
+    {"id":{"name":"PhoneHelpMessage","path":"objects/PhoneHelpMessage/PhoneHelpMessage.yy",},},
     {"id":{"name":"RObject","path":"objects/RObject/RObject.yy",},},
     {"id":{"name":"SellButtonObject","path":"objects/SellButtonObject/SellButtonObject.yy",},},
     {"id":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},},

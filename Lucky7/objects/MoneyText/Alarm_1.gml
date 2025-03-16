@@ -44,7 +44,7 @@ if (global.time == 5 || global.time == 9 || global.time == 13) then {
 }
 
 
-
+global.crisis = true;
 if (global.time == 4) then {
 	global.water_supply = water_bonus;
 	audio_play_sound(music_crisis, 1, true, 0.6);
@@ -75,8 +75,11 @@ else if (global.time == 12) then {
 	audio_sound_gain(music_farm, 0, 0);
 }
 else {
+	global.crisis = false;
 	audio_sound_gain(music_farm, 0.6, 0);
 	audio_stop_sound(music_crisis);
 }
 global.actions = 1;
+
+if (global.crisis && layer_get_visible("Instances_phone_menu")) layer_set_visible("Instances_1", true);
 	
